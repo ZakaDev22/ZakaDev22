@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm Zakaria Elfakhar, a dedicated developer with a
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakaDev22&show_icons=true&theme=radical)
+
 ## About Me
 
 **Currently Learning**  
