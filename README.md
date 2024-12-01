@@ -2,11 +2,20 @@
 
 Welcome to my GitHub profile! I'm Zakaria Elfakhar, a dedicated developer with a focus on programming, and best practices in software development.
 
+## My Learning Timeline
+ ### Feb-2022 --> Sep-2023 :
+  #### Learning And Practice Problems Solving And Project  With C++
+ 
+ ### Sep-2023 -> Present : 
+  #### Still Learning  And Practicing Problems Solving And Projects Using C# And SQL Server (T-SQL) , Restful APIs 
+  #### Also Learnig Web Technologies (Under Study) : HTML , CSS , JavaScript , React 
 ---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakaDev22&layout=compact)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakaDev22&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakaDev22&show_icons=true&theme=dark)
 
+---
 ## About Me
 
 **Currently Learning**  
