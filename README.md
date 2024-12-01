@@ -10,11 +10,13 @@ Welcome to my GitHub profile! I'm Zakaria Elfakhar, a dedicated developer with a
   #### Still Learning  And Practicing Problems Solving And Projects Using C# And SQL Server (T-SQL) , Restful APIs 
   #### Also Learnig Web Technologies (Under Study) : HTML , CSS , JavaScript , React 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakaDev22&layout=compact)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakaDev22&show_icons=true&theme=dark)
-
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakaDev22&theme=darcula) 
+  <br>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZakaDev22&theme=darcula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZakaDev22&theme=darcula)
+  <br>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=darcula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=darcula&utcOffset=8)
 ---
 ## About Me
 
