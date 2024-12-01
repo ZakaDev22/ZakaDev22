@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! I'm Zakaria Elfakhar, a dedicated developer with a focus on programming, and best practices in software development.
 
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakaDev22&layout=compact)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakaDev22&show_icons=true&theme=radical)
 
 ## About Me
