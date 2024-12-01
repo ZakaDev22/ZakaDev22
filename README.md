@@ -12,6 +12,8 @@ Welcome to my GitHub profile! I'm Zakaria Elfakhar, a dedicated developer with a
 ---
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakaDev22&theme=darcula) 
   <br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakaDev22)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZakaDev22&theme=darcula)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZakaDev22&theme=darcula)
   <br>
