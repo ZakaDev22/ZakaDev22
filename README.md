@@ -28,7 +28,7 @@ One of my favorite resources is [ProgrammingAdvices.com](https://programmingadvi
 **Skills**  
 - **Front-End Development**: Currently learning **HTML** , **CSS** , **JavaScript** , (**React** Or **Angulare**) Framwork 
 - **Back-End Development**: C#, .NET, ASP.NET Core, RESTful APIs  
-- **Database and Data Management**: SQL Server, T-SQL, ADO.NET, Entity Framework  
+- **Database and Data Management**: SQL Server, T-SQL, ADO.NET, Entity Framework (in Progress) 
 - **Concepts**: Object-Oriented Programming (OOP), Data Structures, Algorithms, SOLID Principles, Windows Services, Asynchronous Programming 
 
 ---
