@@ -1,6 +1,5 @@
 # Zakaria Elfakhar
 
-Welcome to my GitHub profile! I'm Zakaria Elfakhar, a dedicated developer with a focus on programming, and best practices in software development.
 
 ## My Learning Timeline
  ### Feb-2022 --> Sep-2023 :
@@ -21,7 +20,7 @@ Welcome to my GitHub profile! I'm Zakaria Elfakhar, a dedicated developer with a
 ## About Me  
 
 **Currently Learning**  
-I’m expanding my skill set to become a **Full-Stack Web Developer** by learning **HTML** , **CSS** , and **JavaScript**  to master front-end development. I’ve also completed backend projects, including APIs and Windows Services, and have strong expertise in **C#**, **.NET**, and **SQL Server**.  
+I’m expanding my skill set to become a **Full-Stack Web Developer** by learning **HTML** , **CSS** , and **JavaScript**  to master front-end development. I’ve also completed backend projects, including APIs and Windows Services.
 
 One of my favorite resources is [ProgrammingAdvices.com](https://programmingadvices.com), where I continue to find insightful tutorials and tips to enhance my skills.  
 
