@@ -1,6 +1,3 @@
-# Zakaria Elfakhar
-
-
 ## My Learning Timeline
  ### Feb-2022 --> Sep-2023 :
   #### Learning And Practice Problems Solving And Project  With C++
