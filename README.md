@@ -1,5 +1,4 @@
 
----
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakaDev22&theme=darcula) 
   <br>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZakaDev22&theme=darcula)
@@ -8,13 +7,6 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZakaDev22&theme=darcula)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZakaDev22&theme=darcula&utcOffset=8)
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakaDev22/ZakaDev22/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZakaDev22/ZakaDev22/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
 ## About Me  
 
 **Currently Learning**  
@@ -34,4 +26,9 @@ One of my favorite resources is [ProgrammingAdvices.com](https://programmingadvi
 
 - **Email**: [elfakharzakaria22@gmail.com](mailto:elfakharzakaria22@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/zakaria-elfakhar](https://linkedin.com/in/zakaria-elfakhar)  
-
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakaDev22/ZakaDev22/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZakaDev22/ZakaDev22/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
