@@ -1,10 +1,4 @@
-## My Learning Timeline
- ### Feb-2022 --> Sep-2023 :
-  #### Learning And Practice Problems Solving And Project  With C++
- 
- ### Sep-2023 -> Present : 
-  #### Still Learning  And Practicing Problems Solving And Projects Using C# And SQL Server (T-SQL) , Restful APIs 
-  #### Also Learnig Web Technologies (Under Study) : HTML , CSS , JavaScript , React 
+
 ---
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakaDev22&theme=darcula) 
   <br>
@@ -14,6 +8,13 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZakaDev22&theme=darcula)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZakaDev22&theme=darcula&utcOffset=8)
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakaDev22/ZakaDev22/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZakaDev22/ZakaDev22/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ## About Me  
 
 **Currently Learning**  
