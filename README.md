@@ -14,11 +14,31 @@ I’m expanding my skill set to become a **Full-Stack Web Developer** by learnin
 
 One of my favorite resources is [ProgrammingAdvices.com](https://programmingadvices.com), where I continue to find insightful tutorials and tips to enhance my skills.  
 
-**Skills**  
-- **Front-End Development**: Currently learning **HTML** , **CSS** , **JavaScript** , (**React** Or **Angulare**) Framwork 
-- **Back-End Development**: C#, .NET, ASP.NET Core, RESTful APIs  
-- **Database and Data Management**: SQL Server, T-SQL, ADO.NET, Entity Framework (in Progress) 
-- **Concepts**: Object-Oriented Programming (OOP), Data Structures, Algorithms, SOLID Principles, Windows Services, Asynchronous Programming 
+### 🚀 Skills
+
+**Front-End Development:**
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Back-End Development:**
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET_Core-5C2D91?style=flat&logo=dotnet)
+
+**Database & Data Management:**
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/-T--SQL-00758F?style=flat)
+![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+**Concepts:**
+![OOP](https://img.shields.io/badge/-OOP-007ACC?style=flat)
+![Data Structures](https://img.shields.io/badge/-Data_Structures-1E90FF?style=flat)
+![Algorithms](https://img.shields.io/badge/-Algorithms-FFA500?style=flat)
+![SOLID](https://img.shields.io/badge/-SOLID_Principles-FF6347?style=flat)
+![Windows Services](https://img.shields.io/badge/-Windows_Services-0078D7?style=flat)
+![Async](https://img.shields.io/badge/-Async_Programming-6A5ACD?style=flat)
+
 
 ---
 
