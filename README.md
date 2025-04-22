@@ -5,7 +5,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZakaDev22&theme=darcula)
   <br>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZakaDev22&theme=darcula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZakaDev22&theme=darcula&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZakaDev22&theme=darcula&utcOffset=1)
 ---
 ## About Me  
 
