@@ -13,18 +13,16 @@
 | 🌞 South Season        | ![South Season](./profile-3d-contrib/profile-south-season.svg) |
 | 🌴 South Season Animated| ![South Season Animated](./profile-3d-contrib/profile-south-season-animate.svg) | -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakaDev22&theme=darcula) 
+![Night Green](./profile-3d-contrib/profile-night-green.svg)
+
+---
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakaDev22&theme=darcula) 
   <br>
- <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZakaDev22&theme=darcula) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZakaDev22&theme=darcula) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZakaDev22&theme=darcula)
-  <br> -->
+  <br> 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZakaDev22&theme=darcula)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZakaDev22&theme=darcula&utcOffset=1)
-
-  ---
- ![Green Animated](./profile-3d-contrib/profile-green-animate.svg)
-
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZakaDev22&theme=darcula&utcOffset=1) 
 
 ---
 ## About Me  
