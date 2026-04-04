@@ -13,7 +13,7 @@
 | 🌞 South Season        | ![South Season](./profile-3d-contrib/profile-south-season.svg) |
 | 🌴 South Season Animated| ![South Season Animated](./profile-3d-contrib/profile-south-season-animate.svg) | -->
 
-![Night Green](./profile-3d-contrib/profile-night-green.svg)
+
 
 ---
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakaDev22&theme=darcula) 
